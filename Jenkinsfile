@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "san21doc/nodeapp"
+    dockerimagename = "san21doc/nodeap"
     dockerImage = ""
   }
 
